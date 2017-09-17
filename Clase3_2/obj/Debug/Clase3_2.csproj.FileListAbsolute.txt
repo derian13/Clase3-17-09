@@ -1,0 +1,13 @@
+c:\users\visual_dom\documents\visual studio 2015\Projects\Clase3_2\Clase3_2\obj\Debug\Clase3_2.csprojResolveAssemblyReference.cache
+c:\users\visual_dom\documents\visual studio 2015\Projects\Clase3_2\Clase3_2\bin\Debug\Clase3_2.dll.config
+c:\users\visual_dom\documents\visual studio 2015\Projects\Clase3_2\Clase3_2\bin\Debug\Clase3_2.dll
+c:\users\visual_dom\documents\visual studio 2015\Projects\Clase3_2\Clase3_2\bin\Debug\Clase3_2.pdb
+c:\users\visual_dom\documents\visual studio 2015\Projects\Clase3_2\Clase3_2\bin\Debug\EntityFramework.dll
+c:\users\visual_dom\documents\visual studio 2015\Projects\Clase3_2\Clase3_2\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\visual_dom\documents\visual studio 2015\Projects\Clase3_2\Clase3_2\bin\Debug\EntityFramework.xml
+c:\users\visual_dom\documents\visual studio 2015\Projects\Clase3_2\Clase3_2\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\visual_dom\documents\visual studio 2015\Projects\Clase3_2\Clase3_2\obj\Debug\Clase3_2.dll
+c:\users\visual_dom\documents\visual studio 2015\Projects\Clase3_2\Clase3_2\obj\Debug\Clase3_2.pdb
+c:\users\visual_dom\documents\visual studio 2015\Projects\Clase3_2\Clase3_2\obj\Debug\Clase3_2.Migrations.InitialCreate.resources
+c:\users\visual_dom\documents\visual studio 2015\Projects\Clase3_2\Clase3_2\obj\Debug\Clase3_2.csproj.GenerateResource.Cache
+c:\users\visual_dom\documents\visual studio 2015\Projects\Clase3_2\Clase3_2\obj\Debug\Clase3_2.Migrations.Categorias.resources
